@@ -1,7 +1,7 @@
 <h1 align="center"> Dev - Gabriel </h1>
 
 <p align="center">
-Exclusive and Free program, promoted by Rocketseat for teaching Web Technologies
+Exclusive and Free program, promoted by Rocketseat for teaching Web Technologies.
 </p>
 
 <p align="center">
